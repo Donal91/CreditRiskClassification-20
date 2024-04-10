@@ -1,1 +1,1 @@
-# CreditRiskClassification-20
+# credit-risk-classification
